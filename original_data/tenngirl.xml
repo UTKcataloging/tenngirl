@@ -1,0 +1,1371 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+<header>
+<identifier>tenngirl_1014</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1930-31</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1930-31</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1205</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1014</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1014/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1205</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_1047</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1951-52</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1951</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1951-52</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1212</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1047</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1047/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1212</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_1100</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1957-58</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1957</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1957-58</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1217</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1100</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1100/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1217</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_144</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1963-64</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1963</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1963-64</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1222</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A144</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A144/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1222</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_1</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1961-62</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1961</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1961-62</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1220</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A1/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1220</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_201</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1932-33</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1932-33</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1207</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A201</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A201/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1207</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_230</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1950-51</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1950</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1950-51</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1211</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A230</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A230/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1211</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_283</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1969-70</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1969</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1969-70</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1228</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A283</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A283/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1228</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_324</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1968-69</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1968</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1968-69</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1227</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A324</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A324/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1227</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_377</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1962-63</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1962</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1962-63</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1221</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A377</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A377/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1221</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_42</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1947-48</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1947</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1947-48</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1210</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A42</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A42/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1210</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_430</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1960-61</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1960</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1960-61</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1219</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A430</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A430/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1219</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_471</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1943-44</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1943</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1943-44</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1208</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A471</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A471/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1208</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_500</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1931-32</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1931-32</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1206</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A500</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A500/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1206</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_529</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1955-56</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1955</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1955-56</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1215</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A529</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A529/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1215</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_582</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1953-54</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1953</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1953-54</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1214</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A582</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A582/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1214</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_635</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1966-67</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1966</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1966-67</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1225</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A635</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A635/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1225</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_708</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1964-65</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1964</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1964-65</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1223</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A708</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A708/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1223</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_773</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1967-68</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1967</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1967-68</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1226</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A773</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A773/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1226</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_818</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1956-57</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1956</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1956-57</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1216</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A818</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A818/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1216</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_871</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1958-59</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1958</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1958-59</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1218</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A871</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A871/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1218</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_908</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1965-66</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1965</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1965-66</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1224</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A908</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A908/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1224</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_91</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1952-53</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1952</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1952-53</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1213</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A91</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A91/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1213</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>tenngirl_977</identifier>
+<datestamp>2018-11-28T19:03:19Z</datestamp>
+<setSpec>tenngirl</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee girl handbook.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus). Associated Women Students.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>University of Tennessee (Knoxville campus) -- Guidebooks.</topic>
+  </subject>
+  <subject>
+    <temporal>1944-45</temporal>
+  </subject>
+  <note>[Knoxville, Tenn.] : The University, </note>
+  <note>Publications for students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1944</dateOther>
+  </originInfo>
+  <identifier type="local">tenngirl_1944-45</identifier>
+  <location>
+    <url>http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1209</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A977</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenngirl%3A977/datastream/TN/view</url>
+  </location>
+  <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=tenngirl&amp;iid=1209</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries.</accessCondition>
+</mods>
+</metadata>
+</record>
+</repository>

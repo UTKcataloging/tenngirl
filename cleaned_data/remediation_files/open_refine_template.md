@@ -14,14 +14,14 @@
 ```
 <mods>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
-{{if(isBlank(cells['PID'].value), '', '<identifier type="pid">' + cells["PID"].value + '</identifier>')}}
-<titleInfo><title>{{cells['title'].value}}</title></titleInfo>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
+<titleInfo supplied="yes"><title>{{cells['title'].value}}</title></titleInfo>
+{{if(isBlank(cells['title_alternative'].value), '', '<titleInfo type="alternative"><title>' + cells['title_alternative'].value + '</title></titleInfo>')}}
 <abstract>Handbook published annually by the Associated Women Students (AWS) providing guidance to women students on the University of Tennessee campus.</abstract>
-{{if(isBlank(cells['creator'].value), '', '<name type="corporate"><namePart>' + cells['creator'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form></physicalDescription>
-<originInfo><dateIssued>{{cells['date_text'].value}}</dateIssued>
-<dateIssued encoding="edtf" point="start" keyDate="yes">{{cells['date_range1'].value}}</dateIssued>
-<dateIssued encoding="edtf" point="end">{{cells['date_range2'].value}}</dateIssued>
+{{if(isBlank(cells['creator'].value), '', '<name type="corporate"><namePart>' + cells['creator'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}}
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311807">handbooks</form></physicalDescription>
+<originInfo><dateIssued>{{cells['date'].value}}</dateIssued>
+<dateIssued encoding="edtf" keyDate="yes">{{cells['date'].value}}</dateIssued>
 <place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008006119"><topic>Women college students--United States</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
